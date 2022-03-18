@@ -1,0 +1,3 @@
+E:/dev/clion_projects/vulkan_test1/cmake-build-debug/CMakeFiles/vulkan_test1.dir
+E:/dev/clion_projects/vulkan_test1/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/dev/clion_projects/vulkan_test1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
